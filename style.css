@@ -1,8 +1,8 @@
 .logo {
     font-family: 'Russo One', sans-serif;
     /* font-family: 'Oswald', sans-serif; */
-    color: rgb(240, 240, 240);
-    text-shadow: 2px 2px grey;
+    color: rgb(255, 179, 245);
+    text-shadow: 2px 2px rgb(255, 224, 250);
     font-size: 3rem;
     margin-top: -4px;
     display: inline;
